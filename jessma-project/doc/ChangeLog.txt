@@ -12,7 +12,7 @@
 
 		<dependency>
 			<groupId>org.jessma</groupId>
-			<artifactId>jessma</artifactId>
+			<artifactId>jessma-core</artifactId>
 			<version>3.5.1</version>
 		</dependency>
 
